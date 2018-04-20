@@ -1,0 +1,1 @@
+export { default as CostList } from './page'

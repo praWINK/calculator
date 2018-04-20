@@ -1,0 +1,1 @@
+export { default as Smv_Ov_List } from './page'
